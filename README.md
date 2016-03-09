@@ -1,4 +1,4 @@
-# Licensing.Samples
+# WpfDocking.Samples
 
 Sample source code for [DevZest WPF Docking](http://www.devzest.com/WpfDocking.aspx) component.
 
